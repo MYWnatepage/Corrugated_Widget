@@ -7,6 +7,7 @@ from PyQt5.QtWidgets import QApplication, QWidget
 
 import math
 # ----------控件----------
+# 新增一行注释
 class Corrugated_Widget(QWidget):
     def __init__(self, parent=None):
         super().__init__(parent)
